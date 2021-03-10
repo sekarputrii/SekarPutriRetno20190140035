@@ -1,0 +1,22 @@
+.gambar img
+{
+    height: 300px;
+    border-radius: 5px;
+}
+.deskripsi h1
+{
+    font-family: 'Roboto', sans-serif;
+    color:  black;
+}
+.deskripsi s
+{
+    color: rgb(167, 31, 31);
+}
+.deskripsi h6
+{
+    color: rgb(167, 31, 31);
+}
+.IKON
+{
+    border: 2px solid black;
+}
